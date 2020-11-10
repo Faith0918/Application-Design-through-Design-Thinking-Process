@@ -8,13 +8,13 @@ Project from 2021 fall university of Seoul Human Computer Interaction (HCI) cour
   - Application design
   - UX/UI
 
-### Hi-fi Prototyping
-##### Prototype
+## Hi-fi Prototyping
+### Prototype
   - Used tool : Kakao Oven
   - URL : https://ovenapp.io/view/3kYg88vmYR1meDkhRoC1XV4kO2KVmeoO
 
 
-##### Tasks
+### Tasks
 Try finishing 2 tasks written below with the prototype by hitting the URL.
 
 - Simple Task : Get a feedback after a session.
@@ -27,7 +27,7 @@ Try finishing 2 tasks written below with the prototype by hitting the URL.
 | Client A | #1 | Give a feedback to the personal trainer. |
 | Client A | #2 | Rescheule the session schedule. |
 
-##### Guidance
+### Guidance
 - Please use texting function to communicate. 
 (Calling function is not implemented yet.)
 - Please conduct the client side task #1 after trainer requests feedback.
