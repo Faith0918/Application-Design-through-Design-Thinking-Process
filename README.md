@@ -30,7 +30,7 @@ Try finishing 2 tasks written below with the prototype by hitting the URL.
 ### Guidance
 - Please use texting function to communicate. 
 (Calling function is not implemented yet.)
-- Please conduct the client side task #1 after trainer requests feedback.
+- Please start the client side task #1 after trainer requests feedback.
 - Only trainer can fix the schedule from the system.
 
 
