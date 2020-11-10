@@ -2,7 +2,7 @@
 
 
 
-Project from 2021 fall university of Seoul Human Computer Interaction (HCI) course. 
+Project from 2021 fall University of Seoul Human Computer Interaction (HCI) course. 
 
   - Design thinking process
   - Application design
