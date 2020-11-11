@@ -8,7 +8,7 @@ Project from 2021 fall University of Seoul Human Computer Interaction (HCI) cour
   - Application design
   - UX/UI
 
-## Hi-fi Prototyping
+## Midium-fi Prototyping
 ### Prototype
   - Used tool : Kakao Oven
   - URL : https://ovenapp.io/view/3kYg88vmYR1meDkhRoC1XV4kO2KVmeoO
