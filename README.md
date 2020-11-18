@@ -29,10 +29,10 @@ Try finishing 2 tasks written below with the prototype by hitting the URL.
 | Client A | #2 | Rescheule the session schedule. |
 
 ### Guidance
-- Please use chatting function to communicate. 
+- Please use chatting function to communicate. <br>
 (Calling function is implemented in hard coding.)
 - Please start the client side task #1 after trainer requests feedback.
-- Only trainers can change schedules in the system.
+- Only trainers can change schedules in the system.<br>
 (Clients can't change schedules in the system.)
-- Please use your input device to put data. 
+- Please use your input device to put data. <br>
 (Screen keyboard function is implemented in hard coding.)
