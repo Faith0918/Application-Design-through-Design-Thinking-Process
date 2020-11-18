@@ -8,6 +8,7 @@ Project from 2021 fall University of Seoul Human Computer Interaction (HCI) cour
   - Application design
   - UX/UI
 
+[PPT download](Assignment7.pptx)
 ## Midium-fi Prototyping
 ### Prototype
   - Used tool : Kakao Oven
