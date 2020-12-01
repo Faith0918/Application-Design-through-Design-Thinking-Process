@@ -12,7 +12,7 @@ Project from 2021 fall University of Seoul Human Computer Interaction (HCI) cour
 ## Midium-fi Prototyping
 ### Prototype
   - Used tool : Kakao Oven
-  - URL : https://ovenapp.io/view/3kYg88vmYR1meDkhRoC1XV4kO2KVmeoO
+  - URL : https://ovenapp.io/view/sHQdCNsBkn5QofiC3dCu6TAQhoxbCEJJ
 
 
 ### Tasks
